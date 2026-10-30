@@ -1,0 +1,21 @@
+# Папки сборки
+build/
+debug/
+release/
+
+# Настройки Qt Creator
+*.user
+*.user.*
+
+# Объектные и исполняемые файлы
+*.o
+*.obj
+*.exe
+
+# Автоматически генерируемые файлы Qt
+moc_*
+ui_*
+qrc_*
+
+# Файлы сборки qmake
+Makefile
